@@ -1,0 +1,15 @@
+https://bootstrapcreative.com/resources/bootstrap-3-css-classes-index/
+
+https://github.com/dnilay/cts-hnt-26th-nov-21
+
+https://getbootstrap.com/docs/5.1/getting-started/introduction/
+
+https://preview.colorlib.com/theme/bootstrap/login-form-20/
+
+https://freefrontend.com/bootstrap-login-forms/
+
+https://bbbootstrap.com/snippets/bootstrap-order-information-table-fa-icons-60887951
+
+https://react-bootstrap.github.io/migrating/
+
+https://reactjs.org/docs/getting-started.html

@@ -1,0 +1,24 @@
+[11:20 AM] Nilay (Guest)
+Sudheer--->
+
+
+lokk into naming convesion
+
+
+do not attribute level DI
+
+
+add comments 
+
+Add swagger2
+
+System.err.println
+
+
+specify access modifier
+
+
+make it private and fina;l
+
+check properly naming convension
+
